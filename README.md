@@ -1,2 +1,6 @@
 MY STACK
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html5,css3,js,python" />
+  </a>
+</p>
