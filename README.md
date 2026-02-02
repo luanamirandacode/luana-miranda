@@ -1,2 +1,2 @@
-# luana-miranda
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+MY STACK
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
