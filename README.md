@@ -1,6 +1,6 @@
 MY STACK
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html5,css3,js,angular,wordpress,elementor" />
   </a>
 </p>
